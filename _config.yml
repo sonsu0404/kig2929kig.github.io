@@ -106,8 +106,7 @@ analytics:
 author:
   name             : "INGOO KANG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person." <br>
-                     "Teacher"
+  bio              : "I am an **amazing** person." 
   location         : "Republic of Korea"
   email            : 
   links:
