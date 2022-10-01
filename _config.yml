@@ -20,7 +20,7 @@ title                    : "꿈꾸는 돈키호테"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "kig2929kig"
-description              : "상처 많은 꽃잎들이 가장 향기롭다."
+description              : "상처 많은 꽃잎들이 가장 향기롭다."<br>"https://github.com/kig2929kig"
 url                      : "https://kig2929kig.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
