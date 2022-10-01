@@ -112,7 +112,7 @@ author:
   links:
     - label: "kig2929kig@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:kig2929kig@gmail.com"
+      # url: "mailto:kig2929kig@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/kig2929kig"
+      # url: "https://github.com/kig2929kig"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
