@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "INGOO KANG"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person." 
+  bio              : "상처 많은 꽃잎들이 가장 향기롭다." 
   location         : "Republic of Korea"
   email            : 
   links:
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/kig2929kig"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
