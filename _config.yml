@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "상처 많은 꽃잎들이 가장 향기롭다." 
   location         : "Republic of Korea"
-  email            : 
+  email            : "kig2929kig@gmail.com"
   links:
     - label: "kig2929kig@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
