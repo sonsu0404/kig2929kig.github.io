@@ -2,7 +2,9 @@
 layout: archive
 ---
 
-{{ <div>
+{{  }}
+
+<div>
 <script src="https://utteranc.es/client.js"
         repo="kig2929kig/blog"
         issue-term="title"
@@ -11,9 +13,7 @@ layout: archive
         crossorigin="anonymous"
         async>
 </script>
-</div> }}
-
-
+</div>
 
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
