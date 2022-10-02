@@ -26,8 +26,9 @@ layout: archive
         {% include archive-single.html type=entries_layout %}
       {% endfor %}
     </div>
-    
-    <div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+ <div>
     <script src="https://utteranc.es/client.js"
         repo="kig2929kig/blog"
         issue-term="title"
@@ -37,8 +38,5 @@ layout: archive
         async>
     </script>
     </div>
-    
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-  </section>
 {% endfor %}
 
