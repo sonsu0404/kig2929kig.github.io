@@ -15,16 +15,6 @@ layout: archive
   {% endfor %}
 </ul>
 
-<div>
-  <script src="https://utteranc.es/client.js"
-        repo="kig2929kig/blog"
-        issue-term="title"
-        label="comments"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-  </script>
-</div>
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
@@ -36,6 +26,18 @@ layout: archive
         {% include archive-single.html type=entries_layout %}
       {% endfor %}
     </div>
+    
+    <div>
+    <script src="https://utteranc.es/client.js"
+        repo="kig2929kig/blog"
+        issue-term="title"
+        label="comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+    </script>
+    </div>
+    
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
