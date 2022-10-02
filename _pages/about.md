@@ -4,4 +4,4 @@ permalink: /about/
 layout: single
 ---
 
-준비 중입니다.
+준비중입니다.
