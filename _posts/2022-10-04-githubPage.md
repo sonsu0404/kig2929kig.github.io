@@ -96,6 +96,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-```
+```  
+
+![image](https://user-images.githubusercontent.com/47412229/193735761-dce26b49-4a9a-451d-aad6-902ad7a6ed01.png)
 
 
