@@ -43,8 +43,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 ```   
 [테마 스킨 목록](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin)  
 
-![image](https://user-images.githubusercontent.com/47412229/193725023-1a717e25-393d-4ab9-af24-5d59e4102430.png)
-
+![image](https://user-images.githubusercontent.com/47412229/193731715-a2c42622-5826-49cf-a21a-be02d9f41a6e.png)
 
 ## 2-2. 사이트 설정
 
