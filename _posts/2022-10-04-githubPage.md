@@ -98,6 +98,13 @@ author:
       # url: "https://instagram.com/"
 ```  
 
-![image](https://user-images.githubusercontent.com/47412229/193735761-dce26b49-4a9a-451d-aad6-902ad7a6ed01.png)
+![image](https://user-images.githubusercontent.com/47412229/193735761-dce26b49-4a9a-451d-aad6-902ad7a6ed01.png)  
+
+```
+avatar : "/assets/images/그림파일.jpg"
+```
+`/assets/` 폴더에 images 폴더를 만들고 그림파일을 저장 후 적용하면 됩니다.  
+
+
 
 
