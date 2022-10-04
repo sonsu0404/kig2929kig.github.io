@@ -62,4 +62,42 @@ repository               : "kig29kig/kig29kig.github.io" # GitHub username/repo-
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+```   
+
+![image](https://user-images.githubusercontent.com/47412229/193730602-e3dd7235-a825-481a-bb1a-3d6570bec9a0.png)  
+
+name, description은 웹 사이트에 대한 정보를 입력하는 곳으로 실제 보여지는 웹사이트에서는 나타나지 않습니다.  
+
+## 사이트 작성자  
+
+```md
+# Site Author
+author:
+  name             : "INGOO KANG"
+  avatar           : "https://avatars.githubusercontent.com/u/47412229?v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              :  "상처 많은 꽃잎들이 가장 향기롭다."
+  location         : "Republic of Korea"
+  email            : "kig2929kig@gmail.com"
+  links:
+    - label: "kig2929kig@gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:kig2929kig@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/kig2929kig"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+
 ```
+
+
