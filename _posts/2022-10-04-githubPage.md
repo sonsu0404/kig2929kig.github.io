@@ -113,4 +113,17 @@ avatar : "/assets/images/그림파일.jpg"
 확장자는 .md 로 마크다운 언어를 사용하여 작성합니다. 마크다운 언어에 대한 사용법은 아래 링크를 참조하세요.  
 [마크다운 가이드](/Markdown)
 
-![image](https://user-images.githubusercontent.com/47412229/193743267-6a48645a-ce95-43ce-bc76-45bfe10de48f.png)
+![image](https://user-images.githubusercontent.com/47412229/193743267-6a48645a-ce95-43ce-bc76-45bfe10de48f.png)  
+
+```md
+---
+layout: single
+title: "깃허브 페이지 만들기"
+---
+```
+포스팅 레이아웃은 기본적으로 `single` 이며 다양한 레이아웃이 있습니다. 관련 문서는 아래 링크를 참조하세요.  
+[POST 레이아웃](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)  
+
+`title : "POST 제목"` 블로그에 포스팅한 제목을 설정합니다.
+
+
