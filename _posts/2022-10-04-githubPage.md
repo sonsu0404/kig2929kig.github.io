@@ -21,13 +21,17 @@ Jekyll 테마는 다른 사용자들이 이미 구성해서 배포한 template�
 
 # 사전 작업
 Github 계정이 있어야 합니다. Github에 대한 내용은 다시 준비하겠습니다. 우선은 구글 검색 등을 통해서 가입하고 진행하면 됩니다.  
-
 ***
 
 ## 1. minimal-mistakes 테마 적용하기
 깃허브 레포(https://github.com/mmistakes/minimal-mistakes)에 접속하여 우측 상단의 fork 버튼을 클릭합니다.  
 fork한 repository 명칭을 **(본인의 github 계정이름).github.io** 로 변경합니다.  
 예) kig2929kig.github.io  
+***
+
+## 2. _config.yml 편집
+
+### 테마 스킨
 
 
 
