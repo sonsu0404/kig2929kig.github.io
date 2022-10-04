@@ -26,7 +26,7 @@ Github 계정이 있어야 합니다. Github에 대한 내용은 다시 준비�
 
 ## 1. minimal-mistakes 테마 적용하기
 깃허브 레포(https://github.com/mmistakes/minimal-mistakes)에 접속하여 우측 상단의 fork 버튼을 클릭합니다.  
-fork한 repository 명칭을 **(본인의 github 계정이름).gihub.io** 로 변경합니다.  
+fork한 repository 명칭을 **(본인의 github 계정이름).github.io** 로 변경합니다.  
 예) kig2929kig.github.io  
 
 
