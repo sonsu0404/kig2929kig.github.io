@@ -29,6 +29,9 @@ fork한 repository 명칭을 **(본인의 github 계정이름).github.io** 로 �
 예) kig2929kig.github.io  
 ***
 
+![image](https://user-images.githubusercontent.com/47412229/193723245-d98ca65f-473a-48c3-94e2-a9fbf3aa533f.png)
+
+
 ## 2. _config.yml 편집
 
 ### 테마 스킨
