@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: #single
 title: "깃허브 페이지 만들기"
 toc : true
 toc_sticky: true
