@@ -25,4 +25,9 @@ tags:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-```
+```   
+
+![image](https://user-images.githubusercontent.com/47412229/193764827-fa333cb2-02d0-481e-9680-569fd6e3d48a.png)
+
+about.md 파일을 만들때, `permalink: /about/` 추가해야, 링크가 연결됩니다.  
+
