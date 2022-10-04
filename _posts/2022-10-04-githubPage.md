@@ -32,6 +32,7 @@ fork한 repository 명칭을 **(본인의 github 계정이름).github.io** 로 �
 ## 2. _config.yml 편집
 
 ### 테마 스킨
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 
 
