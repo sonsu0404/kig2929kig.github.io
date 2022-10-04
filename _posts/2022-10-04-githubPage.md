@@ -40,7 +40,9 @@ minimal_mistakes_skin    : "default"  # "air", "aqua", "contrast", "dark", "dirt
 ### 사이트 설정
 
 ```md
+
 # Site Settings
+
 locale                   : "ko-KR" # 국가 설정
 title                    : "꿈꾸는 돈키호테" # 사이트 제목 표시줄
 title_separator          : "-"
