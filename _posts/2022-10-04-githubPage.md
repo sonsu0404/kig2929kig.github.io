@@ -111,3 +111,5 @@ avatar : "/assets/images/그림파일.jpg"
 '/_posts/' 폴더를 만들고 폴더 안에 포스팅할 파일을 작성하면 됩니다. 예) 2022-10-04-firtst_posting.md  
 확장자는 .md 로 마크다운 언어를 사용하여 작성합니다. 마크다운 언어에 대한 사용법은 아래 링크를 참조하세요.  
 [마크다운 가이드](/Markdown)
+
+![image](https://user-images.githubusercontent.com/47412229/193743267-6a48645a-ce95-43ce-bc76-45bfe10de48f.png)
