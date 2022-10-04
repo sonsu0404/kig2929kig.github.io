@@ -1,3 +1,12 @@
+---
+layout: single
+title: "깃허브 페이지 만들기"
+toc : true
+toc_sticky: true
+tags:
+  - minimal Mistakes
+  - github pages
+---
 
 # Github pages 블로그 만들기
 지킬(Jekyll)은 정적 사이트 생성기로 일반 텍스트를 정적 웹사이트 및 블로그로 변환합니다. Github Pages는 Jekyll을 기반으로 무료로 Gihub를 사용하여 사이트를 배포할 수 있습니다.  
