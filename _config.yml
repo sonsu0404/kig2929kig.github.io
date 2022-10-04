@@ -19,8 +19,8 @@ locale                   : "ko-KR"
 title                    : "꿈꾸는 돈키호테"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : 블로그 이름 # "kig2929kig"
-description              : # "상처 많은 꽃잎들이 가장 향기롭다.<br>https://github.com/kig2929kig"
+name                     : "꿈꾸는 돈키호테 BLOG" # "kig2929kig"
+description              : "IT 기술 블로그" # "상처 많은 꽃잎들이 가장 향기롭다."
 url                      : "https://kig2929kig.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kig2929kig/kig2929kig.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,14 +106,14 @@ analytics:
 # Site Author
 author:
   name             : "INGOO KANG"
-  avatar           : "https://avatars.githubusercontent.com/u/47412229?v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/imgs/avatar.jpg"
   bio              :  "상처 많은 꽃잎들이 가장 향기롭다."
   location         : "Republic of Korea"
-  email            : "kig2929kig@gmail.com"
+  email            : 
   links:
     - label: "kig2929kig@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:kig2929kig@gmail.com"
+      url: "mailto:kig2929kig@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/kig2929kig"
+      url: "https://github.com/kig2929kig"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
