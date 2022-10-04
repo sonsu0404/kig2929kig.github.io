@@ -41,7 +41,10 @@ fork한 repository 명칭을 **(본인의 github 계정이름).github.io** 로 �
 ```md
 minimal_mistakes_skin    : "default"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"`
 ```   
-[테마 스킨 목록](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin)
+[테마 스킨 목록](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin)  
+
+![image](https://user-images.githubusercontent.com/47412229/193725023-1a717e25-393d-4ab9-af24-5d59e4102430.png)
+
 
 ## 사이트 설정
 
