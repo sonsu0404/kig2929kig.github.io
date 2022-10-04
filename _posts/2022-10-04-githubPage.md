@@ -72,15 +72,15 @@ name, description은 웹 사이트에 대한 정보를 입력하는 곳으로 �
 ```md
 # Site Author
 author:
-  name             : "INGOO KANG"
-  avatar           : "https://avatars.githubusercontent.com/u/47412229?v=4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :  "상처 많은 꽃잎들이 가장 향기롭다."
-  location         : "Republic of Korea"
+  name             : "INGOO KANG" # "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "어마 무시한 웹 사이트' # "I am an **amazing** person."
+  location         : "Republic of Korea" # "Somewhere"
   email            : "kig2929kig@gmail.com"
   links:
-    - label: "kig2929kig@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:kig2929kig@gmail.com"
+      # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -92,11 +92,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/kig2929kig"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
 ```
 
 
