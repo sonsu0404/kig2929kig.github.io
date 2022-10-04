@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "깃허브 페이지 만들기"
+classes: wide
 toc : true
 toc_sticky: true
 tags:
