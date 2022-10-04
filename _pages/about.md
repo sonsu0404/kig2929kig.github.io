@@ -2,6 +2,7 @@
 layout: single
 title: "블로그 소개"
 permalink: /about/
+classes: wide
 ---
 
 # 꿈꾸는 돈키호테 BLOG 
