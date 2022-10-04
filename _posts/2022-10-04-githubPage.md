@@ -124,6 +124,32 @@ title: "깃허브 페이지 만들기"
 포스팅 레이아웃은 기본적으로 `single` 이며 다양한 레이아웃이 있습니다. 관련 문서는 아래 링크를 참조하세요.  
 [POST 레이아웃](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)  
 
-`title : "POST 제목"` 블로그에 포스팅한 제목을 설정합니다.
+`title : "POST 제목"` 블로그에 포스팅한 제목을 설정합니다.  
+
+## 2-5. Site Footer 설정하기 
+
+```
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+```
 
 
