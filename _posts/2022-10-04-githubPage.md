@@ -32,8 +32,25 @@ fork한 repository 명칭을 **(본인의 github 계정이름).github.io** 로 �
 ## 2. _config.yml 편집
 
 ### 테마 스킨
-`minimal_mistakes_skin    : "default"  #"air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"`
+```md
+minimal_mistakes_skin    : "default"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"`
+```   
+[테마 스킨 목록](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin)
 
+### 사이트 설정
 
-
-
+```md
+# Site Settings
+locale                   : "ko-KR" # 국가 설정
+title                    : "꿈꾸는 돈키호테" # 사이트 제목 표시줄
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : 블로그 이름 # 블로그 이름
+description              : # "상처 많은 꽃잎들이 가장 향기롭다.<br>https://github.com/kig2929kig"
+url                      : "https://kig2929kig.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "kig2929kig/blog" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "꿈꾸는 돈키호테 BLOG"
+```
