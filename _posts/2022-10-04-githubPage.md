@@ -48,14 +48,14 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 ## 사이트 설정
 
-```.md
+```md
 # Site Settings
 locale                   : "ko-KR"
 title                    : "사이트 제목 표시줄"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : 이름 # "Your Name"
-description              : 어마 무시한 웹 사이트 #"An amazing website."
+description              : 어마 무시한 웹 사이트 # "An amazing website."
 url                      : "https://kig29kig.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kig29kig/kig29kig.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
