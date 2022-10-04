@@ -37,7 +37,7 @@ fork한 repository 명칭을 **(본인의 github 계정이름).github.io** 로 �
 
 # 2. _config.yml 편집
 
-## 테마 스킨
+## 2-1. 테마 스킨
 ```md
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 ```   
@@ -46,7 +46,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 ![image](https://user-images.githubusercontent.com/47412229/193725023-1a717e25-393d-4ab9-af24-5d59e4102430.png)
 
 
-## 사이트 설정
+## 2-2. 사이트 설정
 
 ```md
 # Site Settings
@@ -68,7 +68,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 
 name, description은 웹 사이트에 대한 정보를 입력하는 곳으로 실제 보여지는 웹사이트에서는 나타나지 않습니다.  
 
-## 사이트 작성자  
+## 2-3. 사이트 작성자  
 
 ```md
 # Site Author
