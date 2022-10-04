@@ -74,7 +74,7 @@ name, description은 웹 사이트에 대한 정보를 입력하는 곳으로 �
 author:
   name             : "INGOO KANG" # "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "어마 무시한 웹 사이트' # "I am an **amazing** person."
+  bio              : "어마 무시한 웹 사이트" # "I am an **amazing** person."
   location         : "Republic of Korea" # "Somewhere"
   email            : "kig2929kig@gmail.com"
   links:
