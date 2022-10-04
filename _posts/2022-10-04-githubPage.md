@@ -31,7 +31,7 @@ Github 계정이 있어야 합니다. Github에 대한 내용은 다시 준비�
 fork한 repository 명칭을 **(본인의 github 계정이름).github.io** 로 변경합니다.  
 예) kig2929kig.github.io     
 
-![image](https://user-images.githubusercontent.com/47412229/193723245-d98ca65f-473a-48c3-94e2-a9fbf3aa533f.png)  
+![image](https://user-images.githubusercontent.com/47412229/193731543-b354b308-fe0a-45e3-b522-051951516984.png)
 
 ***
 
