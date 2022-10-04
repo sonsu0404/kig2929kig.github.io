@@ -14,7 +14,7 @@ tags:
 ***
 
 # 지킬(Jekyll) 테마 적용하기
-Jekyll 테마는 다른 사용자들이 이미 구성해서 배포한 template이며, 많은 무료 template이 공개되어 있습니다. 무료 테마들 중에서 인기있는 Minimal Mistakes 테마 적용해서 블로그를 만들어 봅시다.  
+Jekyll 테마는 다른 사용자들이 이미 구성해서 배포한 template이며, 많은 무료 template이 공개되어 있습니다. 무료 테마들 중에서 인기있는 Minimal Mistakes 테마를 적용해서 블로그를 만들어 봅시다.  
 
 [Github minimal Mistakes 템플릿](https://github.com/mmistakes/minimal-mistakes)  
 ***
