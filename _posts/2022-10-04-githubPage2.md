@@ -5,7 +5,7 @@ classes: wide
 toc : true
 toc_sticky: true
 categories:
-  - 깃허브 페이지 만들기/
+  - 깃허브 페이지 만들기
 tags:
   - minimal Mistakes
   - github pages
