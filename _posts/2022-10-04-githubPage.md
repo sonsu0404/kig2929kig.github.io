@@ -1,5 +1,5 @@
 ---
-layout: #single
+layout: single
 title: "깃허브 페이지 만들기"
 toc : true
 toc_sticky: true
@@ -106,6 +106,8 @@ avatar : "/assets/images/그림파일.jpg"
 `/assets/` 폴더에 images 폴더를 만들고 그림파일을 저장 후 적용하면 저장된 그림파일이 보여집니다. 보통은 개인 사진을 저장합니다.
   
   
-## 2-4.
+## 2-4. POST 게시물 만들기
 
-
+'/_posts/' 폴더를 만들고 폴더 안에 포스팅할 파일을 작성하면 됩니다. 예) 2022-10-04-firtst_posting.md  
+확장자는 .md 로 마크다운 언어를 사용하여 작성합니다. 마크다운 언어에 대한 사용법은 아래 링크를 참조하세요.
+[마크다운 가이드]("./2022-10-01-Markdown.md")
