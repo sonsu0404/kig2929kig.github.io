@@ -42,7 +42,7 @@ fork한 repository 명칭을 **(본인의 github 계정이름).github.io** 로 �
 # 2. _config.yml 편집
 
 ## 2-1. 테마 스킨
-```md
+```
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 ```   
 [테마 스킨 목록](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#skin)  
@@ -51,7 +51,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 ## 2-2. 사이트 설정
 
-```md
+```
 # Site Settings
 locale                   : "ko-KR"
 title                    : "사이트 제목 표시줄"
@@ -73,7 +73,7 @@ name, description은 웹 사이트에 대한 정보를 입력하는 곳으로 �
 
 ## 2-3. 사이트 작성자  
 
-```md
+```
 # Site Author
 author:
   name             : "INGOO KANG" # "Your Name"
@@ -112,13 +112,13 @@ avatar : "/assets/images/그림파일.jpg"
   
 ## 2-4. POST 게시물 만들기
 
-'/_posts/' 폴더를 만들고 폴더 안에 포스팅할 파일을 작성하면 됩니다. 예) 2022-10-04-firtst_posting.md  
+`/_posts/` 폴더를 만들고 폴더 안에 포스팅할 파일을 작성하면 됩니다. 예) 2022-10-04-firtst_posting.md  
 확장자는 .md 로 마크다운 언어를 사용하여 작성합니다. 마크다운 언어에 대한 사용법은 아래 링크를 참조하세요.  
 [마크다운 가이드](/Markdown)
 
 ![image](https://user-images.githubusercontent.com/47412229/193743267-6a48645a-ce95-43ce-bc76-45bfe10de48f.png)  
 
-```md
+```
 ---
 layout: single
 title: "깃허브 페이지 만들기"
