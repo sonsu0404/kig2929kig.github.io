@@ -62,6 +62,9 @@ utterances는 깃허브 앱(github issue에 사용)으로 깃허브 계정만 �
 ## 2-1. github에 새로운 repository를 생성합니다.(댓글을 위한 repo)  
 `blog-comments`라는 이름으로 repo를 생성하고 https://github.com/apps/utterances 사이트로 이동합니다. utterances 앱을 install 버튼을 클릭하여 설치를 진행합니다. Only select repositories를 클릭하고 "(github 계정)/blog-comments" 선택합니다. (예, kig29kig/blog-comments) 사이트 하단의 install 버튼을 클릭하여 설치를 종료합니다.  `_config.yml` 파일을 아래와 같이 편집합니다.  
 
+
+![image](https://user-images.githubusercontent.com/47412229/194020125-2b81a787-ee33-40d4-81ed-28a98bab859a.png)  
+
 ```
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -96,8 +99,6 @@ defaults:
       share: true
       related: true
  ```
-
-![image](https://user-images.githubusercontent.com/47412229/194020125-2b81a787-ee33-40d4-81ed-28a98bab859a.png)
 
 ##  2-2. utterances.html 파일 편집하기
  
