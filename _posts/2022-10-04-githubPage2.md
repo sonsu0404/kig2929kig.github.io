@@ -79,3 +79,43 @@ tags:
 
 ![image](https://user-images.githubusercontent.com/47412229/193958380-398dfe6d-2f44-4ad2-9458-50e995c14ee9.png)
 
+## 3. Category 페이지  
+Category 헤더 메뉴도 `_data` 폴더의 navigation.yml 파일을 편집하고 `_pages` 폴더에 category-archive.md 파일을 만듭니다. 그 후 포스팅한 파일들 중에 카테고리를 등록하면 됩니다.
+
+navigation.yml 파일  
+```
+# main links
+main:
+  #- title: "Quick-Start Guide"
+  # url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Category"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+```
+category-archive.md 파일  
+```
+---
+title: "Posts by Category"
+layout: categories
+permalink: /categories/
+author_profile: true
+---
+```
+
+`_posts` 폴더에 있는 .md 파일 중 아래 내용처럼 카테고리를 추가합니다.
+```
+---
+layout: single
+title: "깃허브 페이지 만들기(1)"
+categories:
+  - 깃허브 페이지 만들기
+tags:
+  - minimal Mistakes
+  - github pages
+---  
+```
+
+
