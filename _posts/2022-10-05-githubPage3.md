@@ -67,6 +67,8 @@ Blog Post <-> Isuue Mapping 에서 3번째 Issue title contains page title을 �
 ![image](https://user-images.githubusercontent.com/47412229/194000998-a3365041-94c2-404a-857f-db51d5249dd4.png)
 
 ##  2-2. 댓글 기능 블로그에 적용하기  
+`_config.yml` 파일을 아래와 같이 편집합니다.  
+
 
 
   
