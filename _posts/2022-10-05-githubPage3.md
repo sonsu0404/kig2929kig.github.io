@@ -64,7 +64,7 @@ utterances는 깃허브 앱(github issue에 사용)으로 깃허브 계정만 �
 Blog Post <-> Isuue Mapping 에서 3번째 Issue title contains page title을 선택했습니다. 다음은 Isuue Label 및 Theme 부분은 기본 값을 사용했습니다.  
 마지막으로 Enable Utterances 부분의 스크립트를 복사합니다.  
 
-![image](https://user-images.githubusercontent.com/47412229/194000047-c79c31bc-092a-4f4e-9ad4-11b3587adb2c.png)  
+![image](https://user-images.githubusercontent.com/47412229/194000998-a3365041-94c2-404a-857f-db51d5249dd4.png)
 
 ##  2-2. 댓글 기능 블로그에 적용하기  
 
