@@ -32,7 +32,9 @@ TOC 목차를 만드는 과정입니다.
 ## 2. toc_sticky : true  
 `toc_sticky : true` 설정은 TOC 목차를 고정하는 역할을 합니다.
 
-## 2. 마무리  
+# 2. 마무리  
 `#` 을 이용하여 문서의 제목을 작성할 때, 이 부분들이 TOC 목차에 표시됩니다. 
 ```  
+
+![image](https://user-images.githubusercontent.com/47412229/193985548-9e2cf8fe-645a-4cb8-a0b1-ac29e926b698.png)
 
