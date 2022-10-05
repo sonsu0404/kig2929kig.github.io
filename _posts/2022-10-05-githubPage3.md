@@ -41,6 +41,7 @@ TOC 목차를 만드는 과정입니다.
 ## - TOC 제목 변경하기  
 
 TOC의 기본 제목은 "On This Page"이다. TOC의 제목을 변경하는 방법은 `toc_label : "목차" `를 추가하면 됩니다.  
+
 ```
 ---
 layout : single
@@ -49,6 +50,6 @@ toc : true
 toc_label : "목차"
 toc_sticky : true
 ---
-```
+```  
 
-![image](https://user-images.githubusercontent.com/47412229/193987424-cbd470ff-27e6-432e-8ce8-f1dc49fd973c.png)
+![image](https://user-images.githubusercontent.com/47412229/193987787-e6e76fbe-e043-421a-9d80-4099b00c7fae.png)
