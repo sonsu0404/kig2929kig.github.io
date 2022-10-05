@@ -66,6 +66,31 @@ utterances는 깃허브 앱(github issue에 사용)으로 깃허브 계정만 �
 
 ##  2-2. 댓글 기능 블로그에 적용하기  
  
+`_includes/comments-providers/utterances.html` 파일을 아래와 같이 설정합니다.  
+
+```
+<script>
+  'use strict';
+
+  (function() {
+    var commentContainer = document.querySelector('#utterances-comments');
+
+    if (!commentContainer) {
+      return;
+    }
+
+    var script = document.createElement('script');
+    script.setAttribute('src', 'https://utteranc.es/client.js');
+    script.setAttribute('repo', 'kig29kig/blog-comments');
+    script.setAttribute('issue-term', 'pathname');
+    script.setAttribute('label', 'blog-comments');
+    script.setAttribute('theme', 'github-light');
+    script.setAttribute('crossorigin', 'anonymous');
+
+    commentContainer.appendChild(script);
+  })();
+</script>
+```
 
 
 
