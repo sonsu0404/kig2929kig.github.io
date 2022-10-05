@@ -12,3 +12,27 @@ tags:
 ---
 
 # TOC(Table of ContentsPermalink) 설정하기
+
+TOC 기능은 문서의 제목을 목차로 표시해주며 오른쪽 사이드에 적용됩니다. 설정 방법은 `_posts` 폴더에 있는 적용하고 싶은 파일(.md)을 아래와 같이 편집하면 됩니다.  
+
+```
+---
+layout : single
+title : "TOC 설정 방법"
+toc : true
+toc_sticky : true
+---
+
+# TOC 목차 만들기  
+TOC 목차를 만드는 과정입니다.
+
+## 1. toc : true  
+설정 방법은 간단합니다. `toc : true` 를 문서에 추가하면 됩니다.
+
+## 2. toc_sticky : true  
+`toc_sticky : true` 설정은 TOC 목차를 고정하는 역할을 합니다.
+
+## 2. 마무리  
+`#` 을 이용하여 문서의 제목을 작성할 때, 이 부분들이 TOC 목차에 표시됩니다. 
+```  
+
