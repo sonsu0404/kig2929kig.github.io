@@ -67,8 +67,9 @@ utterances는 깃허브 앱(github issue에 사용)으로 깃허브 계정만 �
 ##  2-2. 댓글 기능 블로그에 적용하기  
  
 `_includes/comments-providers/utterances.html` 파일을 아래와 같이 설정합니다.  
-
-```script
+  
+  
+```
 <script>
   'use strict';
 
@@ -90,7 +91,9 @@ utterances는 깃허브 앱(github issue에 사용)으로 깃허브 계정만 �
     commentContainer.appendChild(script);
   })();
 </script>
-```
+```  
+  
+  
 ![image](https://user-images.githubusercontent.com/47412229/194022390-d573fb81-90b3-4c7e-9cfe-489c95868e6c.png)
 
   
