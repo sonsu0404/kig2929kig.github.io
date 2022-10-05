@@ -68,7 +68,7 @@ utterances는 깃허브 앱(github issue에 사용)으로 깃허브 계정만 �
  
 `_includes/comments-providers/utterances.html` 파일을 아래와 같이 설정합니다.  
 
-```
+```script
 <script>
   'use strict';
 
