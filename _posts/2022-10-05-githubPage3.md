@@ -131,7 +131,7 @@ defaults:
   
 
 ##  2-3. 댓글 확인  
-이제 포스팅된 문서들에 댓글(utterances) 기능이 추가되었느지, 확인 후 댓글을 입력해 보세요.  
+이제 포스팅된 문서들에 댓글(utterances) 기능이 추가되었느지, 확인 후 댓글을 입력해 봅니다.  
 
 ![image](https://user-images.githubusercontent.com/47412229/194022390-d573fb81-90b3-4c7e-9cfe-489c95868e6c.png)
 
