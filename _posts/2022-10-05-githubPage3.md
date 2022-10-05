@@ -60,14 +60,12 @@ toc_sticky : true
 utterances는 깃허브 앱(github issue에 사용)으로 깃허브 계정만 있으면 사용할 수 있습니다. 또한, 마크다운 문법을 사용하여 댓글 작성이 가능합니다. 특히, 플랫폼을 변경해도 기존 댓글을 그대로 가져올 수 있습니다.  
 
 ## 2-1. github에 새로운 repository를 생성합니다.(댓글을 위한 repo)  
-`blog-comments`라는 이름으로 repo를 생성하고 https://utteranc.es 사이트로 이동합니다. utteranc.es 사이트에서 repo를 연결할 부분에 "(github 계정)/blog-comments" 입력합니다.  
-Blog Post <-> Isuue Mapping 에서 3번째 Issue title contains page title을 선택했습니다. 다음은 Isuue Label 및 Theme 부분은 기본 값을 사용했습니다.  
-마지막으로 Enable Utterances 부분의 스크립트를 복사합니다.  
+`blog-comments`라는 이름으로 repo를 생성하고 https://github.com/apps/utterances 사이트로 이동합니다. utterances 앱을 install 버튼을 클릭하여 설치를 진행합니다. Only select repositories를 클릭하고 "(github 계정)/blog-comments" 선택합니다. (예, kig29kig/blog-comments) 사이트 하단의 install 버튼을 클릭하여 설치를 종료합니다.  `_config.yml` 파일을 아래와 같이 편집합니다.  
 
-![image](https://user-images.githubusercontent.com/47412229/194000998-a3365041-94c2-404a-857f-db51d5249dd4.png)
+![image](https://user-images.githubusercontent.com/47412229/194020125-2b81a787-ee33-40d4-81ed-28a98bab859a.png)
 
 ##  2-2. 댓글 기능 블로그에 적용하기  
-`_config.yml` 파일을 아래와 같이 편집합니다.  
+ 
 
 
 
