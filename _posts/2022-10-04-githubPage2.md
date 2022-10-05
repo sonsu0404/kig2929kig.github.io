@@ -35,5 +35,5 @@ tags:
 about.md 파일을 만들때, `permalink: /about/` 추가해야, 링크가 연결됩니다.  
 
 ## 2. Tags 페이지  
-
+Tag 헤더 메뉴 또한 `_data` 폴더의 navigation.yml 파일을 열고 아래와 같이 수정합니다.
 
