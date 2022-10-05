@@ -108,14 +108,15 @@ author_profile: true
 `_posts` 폴더에 있는 .md 파일 중 아래 내용처럼 카테고리를 추가합니다.
 ```
 ---
+---
 layout: single
-title: "깃허브 페이지 만들기(1)"
+title: "첫번째 블로그입니다."
 categories:
   - 깃허브 페이지 만들기
 tags:
-  - minimal Mistakes
-  - github pages
----  
+  - 블로그
+  - blog
+--- 
 ```
 
 
