@@ -91,8 +91,7 @@ utterances는 깃허브 앱(github issue에 사용)으로 깃허브 계정만 �
   })();
 </script>
 ```
-
-
+![image](https://user-images.githubusercontent.com/47412229/194022390-d573fb81-90b3-4c7e-9cfe-489c95868e6c.png)
 
   
 
