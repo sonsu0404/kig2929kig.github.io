@@ -99,7 +99,7 @@ defaults:
 
 ![image](https://user-images.githubusercontent.com/47412229/194020125-2b81a787-ee33-40d4-81ed-28a98bab859a.png)
 
-##  2-2. 댓글 기능 블로그에 적용하기  
+##  2-2. utterances.html 파일 편집하기
  
 `_includes/comments-providers/utterances.html` 파일을 아래와 같이 설정합니다.  
   
