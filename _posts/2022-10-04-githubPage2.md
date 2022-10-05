@@ -35,5 +35,34 @@ tags:
 about.md 파일을 만들때, `permalink: /about/` 추가해야, 링크가 연결됩니다.  
 
 ## 2. Tags 페이지  
-Tag 헤더 메뉴 또한 `_data` 폴더의 navigation.yml 파일을 열고 아래와 같이 수정합니다.
+Tag 헤더 메뉴 또한 `_data` 폴더의 navigation.yml 파일을 열고 아래와 같이 수정합니다.  
+
+```
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Tag"
+    url: /tags/
+    
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+```
+`_pages` 폴더에 tag-archive.md 파일을 만들고 내용은 아래 내용을 작성합니다.  
+
+```
+---
+title: "Posts by Tag"
+permalink: /tags/
+layout: tags
+author_profile: true
+---
+```
+
 
