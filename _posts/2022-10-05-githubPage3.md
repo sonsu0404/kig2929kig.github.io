@@ -62,6 +62,41 @@ utterances는 깃허브 앱(github issue에 사용)으로 깃허브 계정만 �
 ## 2-1. github에 새로운 repository를 생성합니다.(댓글을 위한 repo)  
 `blog-comments`라는 이름으로 repo를 생성하고 https://github.com/apps/utterances 사이트로 이동합니다. utterances 앱을 install 버튼을 클릭하여 설치를 진행합니다. Only select repositories를 클릭하고 "(github 계정)/blog-comments" 선택합니다. (예, kig29kig/blog-comments) 사이트 하단의 install 버튼을 클릭하여 설치를 종료합니다.  `_config.yml` 파일을 아래와 같이 편집합니다.  
 
+```
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : "utterances" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : "github-light" # "github-light" (default), "github-dark"
+    issue_term           : "pathname" # "pathname" (default)
+```
+```
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      show_date: true
+      comments: true # true
+      share: true
+      related: true
+ ```
+
 ![image](https://user-images.githubusercontent.com/47412229/194020125-2b81a787-ee33-40d4-81ed-28a98bab859a.png)
 
 ##  2-2. 댓글 기능 블로그에 적용하기  
