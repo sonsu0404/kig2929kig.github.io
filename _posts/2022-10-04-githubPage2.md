@@ -63,6 +63,17 @@ permalink: /tags/
 layout: tags
 author_profile: true
 ---
-```
+```  
 
+posting한 파일에 Tag를 추가합니다. `_posts`폴더에 추가한 .md 파일들 중에 Tag를 추가하고 싶은 파일을 선택하여 아래와 같이 편집합니다.
+
+```
+---
+layout: single
+title: "첫번째 블로그입니다."
+tags:
+  - 블로그
+  - blog
+---
+```
 
